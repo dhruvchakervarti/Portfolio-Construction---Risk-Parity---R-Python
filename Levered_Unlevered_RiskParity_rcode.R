@@ -3,7 +3,6 @@ library(data.table)
 library(zoo)
 library(fBasics)
 library(DescTools)
-setwd("D:/Quarter3/QAM")
 
 
 
